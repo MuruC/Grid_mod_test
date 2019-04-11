@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5072F024-3344-4027-8882-2DDF1EE2736F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GridMaker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GridMaker.cs" Line="137" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
